@@ -1,0 +1,6 @@
+- seems very passionate about observability/infra
+- seems to work autonomously (i haven't had any interactions with him going over CRM stuff at least)
+- prs contained pretty obvious inefficient code (makes me worry he's overly trusting of AI instead of reviewing the code it generates well (or at least having a system in place to have AI review it better for him))
+	- worried that he won't 
+- seemed to be pretty set on doing mostly infra work compared to product work in the chat i had with him
+	- not sure if that is what the company needs atm as we have a lot of people wanting to or doing infra at the moment
